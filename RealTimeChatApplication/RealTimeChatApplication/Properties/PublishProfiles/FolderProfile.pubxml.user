@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\PublishRealTimeChatApp</_PublishTargetUrl>
+    <History>True|2021-09-27T10:26:26.9388683Z;True|2021-09-27T16:59:17.9566701+07:00;True|2021-09-27T16:22:55.2696178+07:00;True|2021-09-27T16:19:20.1408612+07:00;True|2021-09-27T16:15:32.0915662+07:00;True|2021-09-27T16:10:21.5638271+07:00;True|2021-09-27T16:07:06.8722229+07:00;True|2021-09-27T16:00:52.2168948+07:00;True|2021-09-27T15:59:33.5222787+07:00;True|2021-09-27T15:59:12.2280720+07:00;True|2021-09-27T15:57:47.8475183+07:00;True|2021-09-27T15:55:35.9671542+07:00;True|2021-09-27T15:48:33.1712167+07:00;True|2021-09-27T15:38:12.0110608+07:00;True|2021-09-27T15:21:13.2685407+07:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>workstation id=RiceChatApp.mssql.somee.com%3bpacket size=4096%3buser id=realtimechat_SQLLogin_1%3bpwd=1nerli2cbq%3bdata source=RiceChatApp.mssql.somee.com%3bpersist security info=False%3binitial catalog=RiceChatApp</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
